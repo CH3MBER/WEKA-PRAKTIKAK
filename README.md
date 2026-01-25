@@ -4,4 +4,4 @@ Hirugarren mailako "Erabakiak Hartzkeo Euskarri Sistemak" ikasgaiko praktikak, W
 
 
 
-![alt text](Developed-By-a-Human-Not-By-AI-Badge-black.png "NO AI USED")
+![alt text](Ez_AA "NO AI USED")
