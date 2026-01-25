@@ -6,6 +6,4 @@ Hirugarren mailako "Erabakiak Hartzkeo Euskarri Sistemak" ikasgaiko praktikak, W
 \
 \
 \
-\
-\
 ![alt text](AA_EZ.png "NO AI USED")
